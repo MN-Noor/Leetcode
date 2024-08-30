@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -95,8 +96,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

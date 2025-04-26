@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
 | [0138-copy-list-with-random-pointer](https://github.com/MN-Noor/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |

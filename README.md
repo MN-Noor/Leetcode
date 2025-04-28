@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/MN-Noor/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/MN-Noor/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/MN-Noor/Leetcode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/MN-Noor/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/MN-Noor/Leetcode/tree/master/2383-add-two-integers) |
 ## Monotonic Stack
 |  |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->

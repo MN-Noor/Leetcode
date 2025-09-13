@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MN-Noor/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MN-Noor/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/MN-Noor/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MN-Noor/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/MN-Noor/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |

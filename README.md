@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/MN-Noor/Leetcode/tree/master/2383-add-two-integers) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/MN-Noor/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MN-Noor/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |

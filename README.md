@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MN-Noor/Leetcode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/MN-Noor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MN-Noor/Leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/MN-Noor/Leetcode/tree/master/0039-combination-sum) |
 ## Counting
 |  |
 | ------- |

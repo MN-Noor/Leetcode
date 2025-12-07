@@ -8,5 +8,16 @@ class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
         if not root:
             return 0
-        return 1+self.countNodes(root.left)+self.countNodes(root.right)
+        depthleft=self.countDepth(root.left)#root 1 missing
+        depthright=self.countDepth(root.right)
+        if depthleft>depthright:
+            return (1 << depthright)+self.countNodes(root.left)
+        else:
+            return (1 << depthleft)+self.countNodes(root.right)
+        
+    def countDepth(self,node):
+        if not node:
+            return 0
+        return 1+self.countDepth(node.left)
+
         

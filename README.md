@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MN-Noor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MN-Noor/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/MN-Noor/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/MN-Noor/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/MN-Noor/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MN-Noor/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MN-Noor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/MN-Noor/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MN-Noor/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MN-Noor/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/MN-Noor/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MN-Noor/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/MN-Noor/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/MN-Noor/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MN-Noor/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Dynamic Programming

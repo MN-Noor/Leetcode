@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
+| [1143-longest-common-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MN-Noor/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |

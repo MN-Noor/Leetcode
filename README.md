@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/MN-Noor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/MN-Noor/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/MN-Noor/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/MN-Noor/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/MN-Noor/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MN-Noor/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
 | ------- |

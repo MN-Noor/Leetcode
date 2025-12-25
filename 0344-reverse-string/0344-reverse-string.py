@@ -1,14 +1,12 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
-        """
-        Do not return anything, modify s in-place instead.
-        """
-        l=0
-        r=len(s)-1
-        def swap(l,r):
-            if l>=r:
-                return 
-            s[l],s[r]=s[r],s[l]
-            swap(l+1,r-1)
-        swap(l,r)
+       self.substitute(s,0,len(s)-1)
+    def substitute(self,s,l,r):
+        if l>=r:
+            return s
+        temp=s[l]
+        s[l]=s[r]
+        s[r]=temp
+        self.substitute(s,l+1,r-1)
+
         

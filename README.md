@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MN-Noor/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/MN-Noor/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MN-Noor/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/MN-Noor/Leetcode/tree/master/0342-power-of-four) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Tree
 |  |

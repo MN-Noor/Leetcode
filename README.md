@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MN-Noor/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MN-Noor/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MN-Noor/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/MN-Noor/Leetcode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/MN-Noor/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/MN-Noor/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/MN-Noor/Leetcode/tree/master/0342-power-of-four) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MN-Noor/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Tree
 |  |

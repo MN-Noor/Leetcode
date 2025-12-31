@@ -1,4 +1,4 @@
-from queue import Queue
+from collections import deque
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
@@ -10,16 +10,14 @@ class Solution:
         res=[]
         if root==None:
             return res
-        q=Queue()
-        q.put(root)
-        
-        while not q.empty():
-            s=q.qsize()
+        q=deque()
+        q.append(root)
+        while q:
             arr=[]
-            for i in range(s):
-                node=q.get()
-                if node.left:q.put(node.left)
-                if node.right:q.put(node.right)
+            for _ in range(len(q)):
+                node=q.popleft()
+                if node.left:q.append(node.left)
+                if node.right:q.append(node.right)
                 arr.append(node.val)
             res.append(arr)
         return res

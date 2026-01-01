@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/MN-Noor/Leetcode/tree/master/0039-combination-sum) |
+| [0066-plus-one](https://github.com/MN-Noor/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MN-Noor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MN-Noor/Leetcode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/MN-Noor/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |

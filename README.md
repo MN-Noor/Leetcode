@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/MN-Noor/Leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/MN-Noor/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/MN-Noor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/MN-Noor/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MN-Noor/Leetcode/tree/master/0326-power-of-three) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/MN-Noor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/MN-Noor/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/MN-Noor/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/MN-Noor/Leetcode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |

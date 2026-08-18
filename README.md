@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/MN-Noor/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/MN-Noor/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/MN-Noor/Leetcode/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/MN-Noor/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/MN-Noor/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/MN-Noor/Leetcode/tree/master/0567-permutation-in-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/MN-Noor/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MN-Noor/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MN-Noor/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MN-Noor/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MN-Noor/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MN-Noor/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MN-Noor/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/MN-Noor/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/MN-Noor/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MN-Noor/Leetcode/tree/master/0079-word-search) |
 | [0304-range-sum-query-2d-immutable](https://github.com/MN-Noor/Leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0427-construct-quad-tree](https://github.com/MN-Noor/Leetcode/tree/master/0427-construct-quad-tree) |
 | [1791-richest-customer-wealth](https://github.com/MN-Noor/Leetcode/tree/master/1791-richest-customer-wealth) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MN-Noor/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MN-Noor/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/MN-Noor/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/MN-Noor/Leetcode/tree/master/0100-same-tree) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MN-Noor/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MN-Noor/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MN-Noor/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MN-Noor/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MN-Noor/Leetcode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/MN-Noor/Leetcode/tree/master/0113-path-sum-ii) |
 ## Counting
